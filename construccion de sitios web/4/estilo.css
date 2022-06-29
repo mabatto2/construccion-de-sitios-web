@@ -1,0 +1,24 @@
+nav{ 
+    display: flex;
+    justify-content: center;
+    background-color: #ccc
+
+}
+nav a{
+    color: rgb(230, 8, 8);
+    padding:20px;
+}
+nav a:hover{
+    background-color: aqua;
+    color: black;
+
+}
+
+body .a{
+  text-transform: uppercase;
+  background-color: aquamarine;
+  justify-content: center;
+  color: blue;
+}
+
+

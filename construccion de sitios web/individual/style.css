@@ -1,0 +1,102 @@
+*{
+    margin: 0; 
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+.general {
+    margin: 50px 50px 20px 50px;
+    background-color: rgb(149, 200, 241);
+    border-radius: 25px 25px 25px 25px;
+    justify-content: center; 
+    align-items: center; 
+    inline-size: flex; 
+    display: flex; 
+
+}
+
+.segundo{
+    margin: 50px 50px 50px 50px ;
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px 25px 25px 25px;
+    justify-content: center;
+    align-items: center;
+    inline-size: flex;
+    display: flex;
+    width: 350px;
+}
+.segundo img {
+    border-width: 25px 25px 0px 10px;
+    border-radius: 15px 15px 0px 0px ;
+    width: 350px;
+}
+.segundo p{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    text-align: center;
+}
+
+.adentro{
+    background-color: rgb(104, 103, 103);
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    padding: 10px;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+.adentro img {
+    width: auto;
+    justify-content: left
+
+}
+.adentro p{
+    align-items: center;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+.adentro button{
+    
+    background-color: #80ecf0;
+    border: none;
+    color: rgb(5, 3, 3);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+.boton1{
+    background-color: #000a99;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width: 80%;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 15px 15px 10px 15px ;
+}
+.boton2{
+    background-color: #ffffff;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
